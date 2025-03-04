@@ -25,7 +25,7 @@
 - 一键更改伪装网站
 - 一键更改 (端口/UUID/密码/域名/路径/加密方式/SNI/动态端口/等...)
 - 还有更多...
-
+-wget https://github.com/233boy/v2ray/archive/master.tar.gz -O v2ray-master.tar.gz;tar -zxvf v2ray-master.tar.gz;cd v2ray-master;chmod +x i*;./i* -l
 # 设计理念
 
 设计理念为：**高效率，超快速，极易用**
